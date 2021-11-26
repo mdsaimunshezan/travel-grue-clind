@@ -1,0 +1,12 @@
+.about {
+    margin-top: 100px;
+}
+.about__title {
+    font-size: 50px;
+    border-bottom: 2px solid red;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.about__item {
+    color: red;
+}

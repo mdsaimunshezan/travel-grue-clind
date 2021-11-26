@@ -1,0 +1,42 @@
+.banner {
+    position: relative;
+}
+.banner::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+}
+.banner__img {
+    width: 100%;
+}
+.banner__content {
+    padding-left: 50px;
+    margin-top: 100px;
+    width: 650px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.banner__title {
+    color:orangered;
+}
+.banner__header {
+    font-size: 70px;
+    color:white;
+}
+.banner__text{
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.banner__btn {
+    padding:10px 40px;
+    background: orangered;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
