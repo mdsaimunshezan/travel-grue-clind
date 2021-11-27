@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+* this is travel guide project
+* user can add there tour plan
+* user also cancel the tour plan
+* this is responsive project
 
 In the project directory, you can run:
 
